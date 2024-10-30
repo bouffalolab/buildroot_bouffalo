@@ -4,7 +4,7 @@
 #
 ################################################################################
 
-OBLFR_VERSION = 7745fe6d6cd72d8a1a3682ff5176bc642475a0e3
+OBLFR_VERSION = e87068cdc6a1b5833d0891e06f5f387b3a8bfb36
 OBLFR_SITE = git@github.com:bouffalolab/bflb_linux_fw.git
 OBLFR_SITE_METHOD = git
 OBLFR_GIT_SUBMODULES = YES
