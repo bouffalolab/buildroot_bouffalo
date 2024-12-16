@@ -24,12 +24,12 @@ partitions:
   - description: 'kernel+dtb FIT image'
     file_name: bl808.itb
     offset: 0x100000
-    size: 0x400000
+    size: 0x500000
 
   - description: 'RO rootfs'
     file_name: rootfs.squashfs
-    offset: 0x500000
-    size: 0x800000
+    offset: 0x600000
+    size: 0x700000
 
   - description: 'RW rootfs overlay'
     offset: 0xd00000
